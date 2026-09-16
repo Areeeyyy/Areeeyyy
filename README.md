@@ -6,6 +6,5 @@ guessed number in.
 
 # ARI DERMAWAN
 
-Machine Learning enthusiast studying in Gunadarma University, Indonesia 
-
-I work on **Artificial Intelegence**, mostly in **AI Integration**. The pattern across my projects is the same: build the model, then put it behind something a person can actually use. LungLens is the clearest example, a chest X-ray classifier that shows its own reasoning instead of only handing back a label.
+Machine Learning enthusiast studying IT at Gunadarma University, Indonesia. 
+I work on Artificial Intelligence, mostly in AI Integration. For me, building the model is only half the work, the other half is putting it behind something a person can actually use. LungLens project is my clearest example: a chest X-ray classifier built with CNN that decides whether an X-ray shows pneumonia or normal
